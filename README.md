@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MGMTECHNOLOGY30
 - 👀 I’m interested in security, programs and web pages.
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Cibersecurity.
 
 <!---
 MGMTECHNOLOGY30/MGMTECHNOLOGY30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
